@@ -1,3 +1,31 @@
 
 =
 src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
+A
+src/ch1/Max3.java,b/9/b958bcee66daa9d3b580a46e36758bb58bee80f1
+A
+src/ch1/Max4.java,9/2/92beb004a534bcd943b52663d39bb8272fec06bb
+A
+src/ch1/Min3.java,6/0/60eaa2bd3631e9c1360f25aa311127935b82cdb4
+A
+src/ch1/Min4.java,7/f/7f8c6c886480add5affb7bd67a986df58f30fdbb
+C
+src/ch1/Median.java,c/f/cfdb879618593640935c802d697925f87035cb19
+F
+src/ch1/JudgeSign.java,e/7/e7e722bb781da24a0077237d96396a67cf9c81f9
+E
+src/ch1/SumWhile.java,3/b/3be2f6c28fc588332e3647603b7f9f98bc80c8d8
+C
+src/ch1/SumFor.java,7/b/7b2efb3e4c34bc1719e28d634844b3bf09cebc29
+D
+src/ch1/SumFor2.java,9/5/95488fa31e7da0fef5d77cb1c7406033e4d6427c
+F
+src/ch1/TwoDigits.java,b/9/b953d9d8f1f34ea8f6b9139154fff4bc5714c5d6
+I
+src/ch1/Multi99Table.java,c/c/cce0abb8aba470ebba72c9424b5d3b1ef0bc03fe
+G
+src/ch1/TriangleLB.java,0/8/089d8f377f5e0f359b99179daf66bb4f6f0f845c
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
